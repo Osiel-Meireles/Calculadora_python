@@ -6,4 +6,6 @@ O programa possui as 4 operações básicas:
 * Subtração
 * Multiplicação
 * Divisão
+* Módulo
+* Potenciação
 ### Com o decorrer do tempo, pretendo ir atualizando esse programa, conforme for adquirindo mais conhecimento. 
